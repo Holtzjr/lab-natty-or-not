@@ -19,6 +19,7 @@ Uma plataforma que utiliza inteligência artificial para fornecer consultoria pe
 - Apresentação Profissional: Utilizei o Gamma.app para transformar o conteúdo em uma apresentação visualmente atraente e dinâmica
 - Plano de Ação Completo: Detalhamento que cobre desde a introdução até cronogramas e próximos passos, pronto para investidores ou parceiros estratégicos
 - Flexibilidade e Clareza: O projeto foi estruturado para ser versátil e adaptável, atendendo às necessidades específicas de PMEs no Brasil
+- https://github.com/Holtzjr/lab-natty-or-not/blob/main/Proposta-de-Plataforma-de-Consultoria-Inteligente-para-PMEs.pdf
 
 ## 💭 Reflexão 
 Integrar ferramentas como o Gamma.app com IA generativa mostrou como a tecnologia pode facilitar tanto a estratégia quanto a execução. A estética visual aliada à profundidade dos dados trouxe um equilíbrio perfeito entre funcionalidade e apresentação, destacando o potencial da proposta no mercado competitivo.
